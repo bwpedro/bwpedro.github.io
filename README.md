@@ -1,2 +1,2 @@
 # bwpedro.github.io
-acesse: http://bwpedro.github.io
+acesse: https://bwpedro.github.io
