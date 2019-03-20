@@ -1,31 +1,15 @@
-body {
-    background-color: #f0f0f2;
-    margin: 0;
-    padding: 0;
+body{
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-div {
-    width: 600px;
-    margin: 5em auto;
-    padding: 50px;
-    background-color: #fff;
-    border-radius: 1em;
+.bold{
+    font-weight: bold;
 }
 
-a:link, a:visited {
-    color: #38488f;
-    text-decoration: none;
-}
-
-@media (max-width: 700px) {
-    body {
-        background-color: #fff;
-    }
-    div {
-        width: auto;
-        margin: 0 auto;
-        border-radius: 0;
-        padding: 1em;
-    }
+#shape{
+    width: 200px;
+    height: 200px;
+    display: none;
+    background-color: red;
+    position: relative;
 }
